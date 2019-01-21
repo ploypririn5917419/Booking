@@ -1,0 +1,29 @@
+.toolbar{
+  background-color: #ff9999;
+  opacity: 100%;
+}
+.more-button {
+  font-family: 'Kanit', sans-serif;
+  margin-left: 20px;
+  font-color: #ffffff;
+  font-size: 20px;
+}
+.example-spacer {
+  flex: 1 1 auto;
+  font-family: 'Kanit', sans-serif;
+}
+.example-icon {
+  flex: 1 1 auto;
+  font-family: 'Kanit', sans-serif;
+}
+.menu-list{
+  float: left;
+  margin-left: 20px;
+  font-family: 'Kanit', sans-serif;
+  font-color: white;
+  font-size: 30px;
+}
+a{
+  color: white;
+  font-family: 'Kanit', sans-serif;
+}
